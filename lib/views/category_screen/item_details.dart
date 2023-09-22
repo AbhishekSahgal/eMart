@@ -13,7 +13,7 @@ class Itemdetails extends StatelessWidget {
     return Scaffold(
       backgroundColor: lightGrey,
       appBar: AppBar(
-        title: title!.text.color(darkFontGrey).fontFamily(bold).make(),
+        title: title!.text.color(darkFontGrey).fontFamily(semibold).make(),
         actions: [
           IconButton(onPressed: (){}, icon: Icon(Icons.share_outlined,)),
           IconButton(onPressed: (){}, icon: Icon(Icons.favorite_border,)),
