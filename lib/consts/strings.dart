@@ -50,3 +50,7 @@ const womenclothing = "Women Clothing",
     jewelery = "Jewelery",
     cellPhone = "Cellphone & Tab",
     furniture = "Furniture";
+
+//Items detail strings
+const video = "Video",
+    reviews = "Reviews", sellerPolicy = "Seller Policy", returnPolicy = "Return Policy", supportPolicy = "Support policy", productmaylike =" Product you may also like";

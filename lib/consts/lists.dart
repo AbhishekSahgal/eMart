@@ -18,3 +18,5 @@ const featuredTitle2 = [boysGlasses, mobilePhone, tShirts];
 
 const categoriesList = [womendress,menClothingFashion,compAccess,autoMobile,kidToys,sports,jewelery,cellPhone,furniture];
 const categoriesImg = [imgFc1,imgFc2,imgFc3,imgFc4,imgFc5,imgFc6,imgFc7,imgFc8,imgFc9,];
+
+const itemDeatilsButtonList = [video,reviews,privacyPolicy,returnPolicy,supportPolicy,];
