@@ -1,6 +1,6 @@
 import 'package:emart_app/consts/consts.dart';
 import 'package:emart_app/controller/home_screen_controller.dart';
-import 'package:emart_app/views/cart/cart_screen.dart';
+import 'package:emart_app/views/cart_screen/cart_screen.dart';
 import 'package:emart_app/views/home_screen/home_screen.dart';
 import 'package:emart_app/views/profile/profile_screen.dart';
 import 'package:flutter/material.dart';

@@ -42,7 +42,7 @@ const searchanything = "Search anything...",
 // category Strings
 
 const womenclothing = "Women Clothing",
-    menClothingFashion =" Men Clothing & Feshion",
+    menClothingFashion = " Men Clothing & Feshion",
     compAccess = "Computer & Accessories",
     autoMobile = "Automobile",
     kidToys = "Kids & Toys",
@@ -53,4 +53,16 @@ const womenclothing = "Women Clothing",
 
 //Items detail strings
 const video = "Video",
-    reviews = "Reviews", sellerPolicy = "Seller Policy", returnPolicy = "Return Policy", supportPolicy = "Support policy", productmaylike =" Product you may also like";
+    reviews = "Reviews",
+    sellerPolicy = "Seller Policy",
+    returnPolicy = "Return Policy",
+    supportPolicy = "Support policy",
+    productmaylike = " Product you may also like";
+
+
+// profile strigs
+
+const  wishlist = "My wishlist",
+    orders = "My Orders",
+    message = "Messages";
+
