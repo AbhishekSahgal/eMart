@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185332364464",
+    "project_id": "emart-f5cad",
+    "storage_bucket": "emart-f5cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185332364464:android:8fa7a56494170409977775",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFNU4gyNMHx_cEIx_uPfPedrf6IFMdbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
